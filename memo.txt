@@ -1,0 +1,16 @@
+mongoDB 아이디 구글로그인 mader0708
+
+cluster0 모든 아이피에서 접속 가능
+
+User1 pw:ZokOdep36iTiVzx6
+
+~~~~~
+알아봐야할거
+
+import 랑 require 차이
+
+export 랑 module.export 차이
+
+let const 차이
+
+!/^[a-zA-Z ]*$/ 뜻-> test 랑 같이
